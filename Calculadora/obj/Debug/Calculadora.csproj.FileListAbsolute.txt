@@ -1,0 +1,37 @@
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Thaís Damásio\Desktop\Atividades 2ºPeríodo\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Thaís Damásio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Artes\Teste\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Artes\Teste\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Artes\Teste\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Artes\Teste\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Thaís\Downloads\797f7d9e-11e2-4bbc-b152-f033ba57f739_1578579_P1_Thais Regina Damasio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
